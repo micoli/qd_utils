@@ -1,6 +1,6 @@
 {
 	"name": "qd/utils",
-	"version": "0.8",
+	"version": "0.8.0",
 	"type": "library",
 	"description": "miscellaneous extensions for qd library",
 	"keywords": ["xml","arrays"],
