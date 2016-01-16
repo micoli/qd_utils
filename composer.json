@@ -3,7 +3,7 @@
 	"version": "0.8",
 	"type": "library",
 	"description": "miscellaneous extensions for qd library",
-	"keywords": ["xml","arrays""],
+	"keywords": ["xml","arrays"],
 	"homepage": "https://github.com/micoli",
 	"license": "BSD-3-Clause",
 	"authors": [{
